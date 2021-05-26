@@ -65,7 +65,7 @@ In the video below you can see me creating a basic console application to add Sc
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h_mO3Z4_Zpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<a href="https://www.youtube.com/embed/h_mO3Z4_Zpw">Link</a> 
 
 ## Github Repository
 
