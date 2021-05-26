@@ -26,7 +26,7 @@ In the video below you can see me creating this basic console application to add
 5.  Add a project reference inside the Data project to the Model project
 6.  Add necessary usings for the Schools and Subjects properties
 7.  Use autocomplete to type a function: override OnConfiguring
-8.  Within the function, replace the existing code with optionsBuilder.UseSqlServer("Data Source= (localdb)\\MSSQLLocalDB; Initial Catalog=SchoolsAppData");
+8.  Within the function, replace the existing code with optionsBuilder.UseSqlServer("Data Source= (localdb)\\\MSSQLLocalDB; Initial Catalog=SchoolsAppData");
 
 12.  In the School class
 
