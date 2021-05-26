@@ -4,7 +4,7 @@ EF Documentation [link](https://docs.microsoft.com/en-us/ef/)
 
 ## Description
 
-In the video below you can see me creating a basic console application to add Schools to a SQL local database using Entity Framework Core.
+In the video below you can see me creating this basic console application to add Schools to a SQL local database using Entity Framework Core.
 
 ## Steps
 
@@ -66,7 +66,3 @@ In the video below you can see me creating a basic console application to add Sc
 ## Video
 
 <a href="https://youtu.be/h_mO3Z4_Zpw">Link</a> 
-
-## Github Repository
-
-What you see in the video is available on GitHub [link](https://github.com/charlesburtrepo/SchoolsApp)
